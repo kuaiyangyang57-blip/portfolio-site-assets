@@ -1,0 +1,31 @@
+项目名称：
+AI Virtual Fashion
+
+项目类型：
+AI虚拟换装 / AI试衣系统
+
+项目简介：
+基于AI完成童装模特换装、
+服装上身生成与后期精修，
+用于提升电商服装视觉生产效率。
+
+我的职责：
+AI换装测试
+AI图像生成
+Photoshop精修
+视觉界面设计
+工作流优化
+
+使用工具：
+Stable Diffusion
+Photoshop
+Midjourney
+
+核心内容：
+AI虚拟试衣
+模特换装
+局部修复
+Logo修复
+高清放大
+服装版型优化
+AI工作流设计

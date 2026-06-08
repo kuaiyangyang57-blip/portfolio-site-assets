@@ -1,0 +1,1 @@
+Exploring visual texture, lighting and material aesthetics through 3D rendering.

@@ -1,0 +1,31 @@
+项目名称：
+齐物AI平台生态设计
+
+项目类型：
+AI平台产品设计
+
+项目简介：
+围绕齐物AI构建企业级AI产品生态，
+负责My AI、AI Store、AI Group Chat、
+千川投流助手等模块的界面设计与体验优化，
+统一平台视觉语言与产品交互规范。
+
+我的职责：
+产品UI设计
+交互体验设计
+后台系统设计
+视觉升级
+AI产品体验优化
+
+使用工具：
+Figma
+Photoshop
+
+项目关键词：
+AI Platform
+Dashboard
+AI Store
+Community
+AI Assistant
+SaaS
+Product Design

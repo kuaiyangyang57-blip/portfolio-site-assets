@@ -1,0 +1,28 @@
+项目名称：
+AI袜子图案生成与点针图系统
+
+项目类型：
+AI商品设计 / 设计工具
+
+项目简介：
+结合AI图案生成与点针图编辑系统，
+探索袜子产品从图案设计、
+效果验证到生产文件输出的完整流程。
+
+我的职责：
+AI图案生成
+袜子视觉设计
+产品效果测试
+点针图系统UI设计
+
+使用工具：
+Midjourney
+Photoshop
+Figma
+
+项目关键词：
+AI Design
+Pattern Generation
+Knitting System
+Product Visualization
+UI Design
